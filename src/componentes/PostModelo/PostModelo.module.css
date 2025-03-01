@@ -27,7 +27,18 @@
 }
 
 .postConteudoContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    width: 80%;
+    align-items: center;
     padding: 2.5rem 7.5rem 4.5rem;
+    font-size: 2rem;
+    margin: auto;
+}
+
+.imgBanner{
+    text-align: center;
 }
 
 @media (max-width: 744px) {
