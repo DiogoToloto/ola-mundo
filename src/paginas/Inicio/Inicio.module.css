@@ -4,7 +4,7 @@
     justify-content: center;
     flex-wrap: wrap;
     gap: 1.5rem;
-    transform: translateY(-4.5%);
+    transform: translateY(-50px);
 }
 
 @media (max-width: 1100px) {

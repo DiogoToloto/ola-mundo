@@ -19,7 +19,7 @@ export default function PostModelo({ fotoCapa, titulo, texto, banner, linguagens
        <BotaoPrincipal 
        tamanho="lg"
        > 
-            <a href={link}>Ver</a>
+            <a href={link} target="blank">Ver</a>
         </BotaoPrincipal>
         </div>
         
