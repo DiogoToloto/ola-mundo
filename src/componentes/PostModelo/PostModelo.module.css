@@ -33,12 +33,15 @@
     width: 80%;
     align-items: center;
     padding: 2.5rem 7.5rem 4.5rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin: auto;
 }
 
 .imgBanner{
     text-align: center;
+    img {
+        width: 80%;
+    }
 }
 
 @media (max-width: 744px) {
